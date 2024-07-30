@@ -1,21 +1,25 @@
-## Hi there 👋
+## *Bem-Vindo ao meu Github*
 
-<!--Cabeçalhos>
+![Gif do Gatinho](https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif)
 
-#italico* ou_italico
+⭐ Olá, me chamo Lidiane Soares.!
 
-**negrito** ou_negrito_
+💻 Sou estudando de Analise e Desenvolvimento de Sistema, no momento realizando curso de especialização na Plataforma DIO. Focada em Desenvolvedora Front-end.
 
-___negrito e iltalico___
+📫[Acese o meu Linkedin](www.linkedin.com/in/lidianesantossoares)
 
-- lista 1
-- lista 2
-  - Sublista
+----
+## Minhas Tecnologias
 
-  123456
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
 
 
-<!--
+
+
+
+
+
+
 **Soareslili/Soareslili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
