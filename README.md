@@ -2,14 +2,15 @@
 
 <!--Cabeçalhos>
 
-# Título 1
-## Tiítulo 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+#italico* ou_italico
 
+**negrito** ou_negrito_
 
+___negrito e iltalico___
+
+- lista 1
+- lista 2
+  - Sublista
 <!--
 **Soareslili/Soareslili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
