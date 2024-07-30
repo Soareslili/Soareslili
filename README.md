@@ -18,7 +18,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px">
 </p>
+
 ----
+
 |Cursos | Certificados|
 |-------| -------------|
 |Príncipios do Git e Github | [Certificado](https://hermes.dio.me/certificates/VNEJZK3F.pdf)
