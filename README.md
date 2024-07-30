@@ -25,8 +25,7 @@
 |Criando sua Primeira Landing Page com HTML e CSS | [Certificado](https://hermes.dio.me/certificates/AOFHYMJY.pdf)
 
 ----
-
-
+![Lidiane Soares Github stats](https://github-readme-stats.vercel.app/api?username=Soareslili&show_icons=true&theme=radical)
 
 
 
