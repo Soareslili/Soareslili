@@ -1,8 +1,8 @@
 ## *Bem-Vindo ao meu Github*
 
-⭐ Olá, me chamo Lidiane Soares.!
+⭐ Olá, me chamo Lidiane.!
 
-💻 Sou estudando de Analise e Desenvolvimento de Sistema, no momento me especialização  na Dev Club, apaixonada pela tecnologia. Focada a cada dia mais para conquistar minha primeira oportunidade na aréa da Tecnologia.
+💻 Sou Desenvolvedora Front-end, atualmente estou apredendo e criando projetos HTML, CSS e iniciando o apredizando em Javascritp e React.
 
 📫[Linkedin](www.linkedin.com/in/lidianesantossoares)
 
