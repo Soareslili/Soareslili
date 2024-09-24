@@ -2,7 +2,7 @@
 
 ⭐ Olá, me chamo Lidiane Soares.!
 
-💻 Sou estudando de Analise e Desenvolvimento de Sistema, no momento realizando curso de especialização na Plataforma DIO. Focada em Front-end, estou no momento inicindo como Freelancer, e focando cada dia mais para conquistar minha primeira oportunidade na aréa da Tecnologia.
+💻 Sou estudando de Analise e Desenvolvimento de Sistema, no momento me especialização  na Dev Club, apaixonada pela tecnologia. Focada a cada dia mais para conquistar minha primeira oportunidade na aréa da Tecnologia.
 
 📫[Linkedin](www.linkedin.com/in/lidianesantossoares)
 
