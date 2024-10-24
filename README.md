@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px">
-<img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs" width="100px"/>
 </p>
 
 ----
