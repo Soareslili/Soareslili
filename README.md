@@ -2,8 +2,7 @@
 
 ⭐ Olá, me chamo Lidiane.!
 
-💻 Sou Desenvolvedora Front-end, atualmente estou apredendo e criando projetos HTML, CSS e iniciando o apredizando em Javascritp e React.
-
+💻 Sou Desenvolvedora Front-end, atualmente estou apredendo e criando projetos HTML, CSS, Javascript, React e iniciando o apredizando em Node.js
 📫[Linkedin](www.linkedin.com/in/lidianesantossoares)
 
 ----
