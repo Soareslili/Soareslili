@@ -2,7 +2,8 @@
 
 ⭐ Olá, me chamo Lidiane.!
 
-💻 Sou Desenvolvedora Front-end, atualmente estou apredendo e criando projetos HTML, CSS, Javascript, React e iniciando o apredizando em Node.js
+💻 Profissional em transição de carreira da área da saúde para Tecnologia. Desenvolvedora WEB e Programadora Front End. Experiência em desenvolvimento de projeto, garantindo o alinhamento com ferramentas, e aplicações de tecnologias. Vivenciando e utilização de tecnologias como HTML, CSS, Javascript, React, Node.js, Bootstrap, Git, Figma, MongoDB, Prisma, jQuery. Habilidade em entender as necessidades dos clientes e aplicar soluções técnicas que atendam às suas expectativas. Sou proativa, sempre buscando novas oportunidades para aprender e melhorar. Foco em entregar trabalho de alta qualidade. Excelentes habilidades de comunicação, facilitando o trabalho em equipe e a colaboração. Gosto de colaborar com outros profissionais para alcançar objetivos comuns. Comprometida em alcançar metas e superar desafios.
+
 📫[Linkedin](www.linkedin.com/in/lidianesantossoares)
 
 ----
@@ -14,16 +15,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px">
-<img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs" width="100px"/>
+<img width="100px" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+<img width="100px" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="100px" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="100px" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
+<img width="100px" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>
 </p>
 
-----
-
-|Cursos | Certificados|
-|-------| -------------|
-|Príncipios do Git e Github | [Certificado](https://hermes.dio.me/certificates/VNEJZK3F.pdf)
-|Formação HTML Web Developer| [Certificado](https://hermes.dio.me/certificates/HIALNQYE.pdf)
-|Criando sua Primeira Landing Page com HTML e CSS | [Certificado](https://hermes.dio.me/certificates/AOFHYMJY.pdf)
 
 ----
 ![Lidiane Soares Github stats](https://github-readme-stats.vercel.app/api?username=Soareslili&show_icons=true&theme=radical)
