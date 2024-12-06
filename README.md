@@ -16,7 +16,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px">
 <img width="100px" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-<img width="100px" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="100px" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 <img width="100px" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 <img width="100px" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>
