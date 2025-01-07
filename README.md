@@ -2,7 +2,7 @@
 
 ⭐ Olá, me chamo Lidiane.!
 
-💻 Profissional em transição de carreira da área da saúde para Tecnologia. Desenvolvedora WEB e Programadora Front End. Experiência em desenvolvimento de projeto, garantindo o alinhamento com ferramentas, e aplicações de tecnologias. Vivenciando e utilização de tecnologias como HTML, CSS, Javascript, React, Node.js, Bootstrap, Git, Figma, MongoDB, Prisma, jQuery. Habilidade em entender as necessidades dos clientes e aplicar soluções técnicas que atendam às suas expectativas. Sou proativa, sempre buscando novas oportunidades para aprender e melhorar. Foco em entregar trabalho de alta qualidade. Excelentes habilidades de comunicação, facilitando o trabalho em equipe e a colaboração. Gosto de colaborar com outros profissionais para alcançar objetivos comuns. Comprometida em alcançar metas e superar desafios.
+💻 Profissional em transição de carreira da área da saúde para Tecnologia. Desenvolvedora WEB e Programadora Front End. Experiência em desenvolvimento de projeto, garantindo o alinhamento com ferramentas, e aplicações de tecnologias. Vivenciando e utilização de tecnologias como HTML, CSS, Javascript, React, Node.js, Bootstrap, Git, Figma, MongoDB, Prisma, jQuery, Tailwind. Habilidade em entender as necessidades dos clientes e aplicar soluções técnicas que atendam às suas expectativas. Sou proativa, sempre buscando novas oportunidades para aprender e melhorar. Foco em entregar trabalho de alta qualidade. Excelentes habilidades de comunicação, facilitando o trabalho em equipe e a colaboração. Gosto de colaborar com outros profissionais para alcançar objetivos comuns. Comprometida em alcançar metas e superar desafios.
 
 📫[Linkedin](www.linkedin.com/in/lidianesantossoares)
 
