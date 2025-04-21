@@ -4,7 +4,7 @@
 
 💻 Sou uma profissional em transição de carreira da área da saúde para a tecnologia, atualmente atuando como Desenvolvedora Web Front-End. Tenho experiência no desenvolvimento de projetos que alinham design, funcionalidade e usabilidade, utilizando tecnologias como:
 
-HTML | CSS | JavaScript | React | Node.js | Bootstrap | Git | Figma | MongoDB | Prisma | jQuery | Tailwind
+HTML | CSS | JavaScript | React | Node.js | Bootstrap | Git | Figma | MongoDB | Prisma | jQuery | Tailwind | Typescript
 
 Tenho facilidade em entender as necessidades dos usuários e transformar ideias em soluções funcionais. Busco sempre evoluir tecnicamente, colaborando em equipe com proatividade, empatia e foco na entrega de resultados de qualidade.
 
