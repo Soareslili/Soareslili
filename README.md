@@ -2,7 +2,13 @@
 
 ⭐ Olá, me chamo Lidiane.!
 
-💻 Profissional em transição de carreira da área da saúde para Tecnologia. Desenvolvedora WEB e Programadora Front End. Experiência em desenvolvimento de projeto, garantindo o alinhamento com ferramentas, e aplicações de tecnologias. Vivenciando e utilização de tecnologias como HTML, CSS, Javascript, React, Node.js, Bootstrap, Git, Figma, MongoDB, Prisma, jQuery, Tailwind. Habilidade em entender as necessidades dos clientes e aplicar soluções técnicas que atendam às suas expectativas. Sou proativa, sempre buscando novas oportunidades para aprender e melhorar. Foco em entregar trabalho de alta qualidade. Excelentes habilidades de comunicação, facilitando o trabalho em equipe e a colaboração. Gosto de colaborar com outros profissionais para alcançar objetivos comuns. Comprometida em alcançar metas e superar desafios.
+💻 Sou uma profissional em transição de carreira da área da saúde para a tecnologia, atualmente atuando como Desenvolvedora Web Front-End. Tenho experiência no desenvolvimento de projetos que alinham design, funcionalidade e usabilidade, utilizando tecnologias como:
+
+HTML | CSS | JavaScript | React | Node.js | Bootstrap | Git | Figma | MongoDB | Prisma | jQuery | Tailwind
+
+Tenho facilidade em entender as necessidades dos usuários e transformar ideias em soluções funcionais. Busco sempre evoluir tecnicamente, colaborando em equipe com proatividade, empatia e foco na entrega de resultados de qualidade.
+
+🎯 Apaixonada por desafios, determinada a crescer na área de tecnologia e contribuir com projetos que façam a diferença.
 
 📫[Linkedin](www.linkedin.com/in/lidianesantossoares)
 
@@ -10,15 +16,15 @@
 ## *Minhas Tecnologias*
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px">
-<img width="100px" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-<img width="100px" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-<img width="100px" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
-<img width="100px" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60px">
+<img width="60px" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+<img width="60px" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="60px" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
+<img width="60px" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>
 </p>
 
 
