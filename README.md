@@ -31,8 +31,7 @@ Tenho facilidade em entender as necessidades dos usuários e transformar ideias 
 
 
 ----
-<div>
 ![Lidiane Soares Github stats](https://github-readme-stats.vercel.app/api?username=Soareslili&show_icons=true&theme=radical)
 
 <img loading="lazy" heigth="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=Soareslili&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
