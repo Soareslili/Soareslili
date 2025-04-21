@@ -25,7 +25,8 @@ Tenho facilidade em entender as necessidades dos usuários e transformar ideias 
 <img width="60px" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 <img width="60px" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 <img width="60px" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>
-<img width="60px"  src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+<img width="60px" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+<img width="60px" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
 </p>
 
 
