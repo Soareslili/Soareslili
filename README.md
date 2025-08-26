@@ -2,7 +2,7 @@
 
 👋 Olá, me chamo **Lidiane**.
 
-💻 Sou **Desenvolvedora Web Front-End**. Em transição da saúde para tech, hoje construo **sites e landing pages** focados em performance, UX e conversão. Trabalho com **React, TypeScript e Tailwind** e estou estudando **Node.js/Express, MongoDB e Prisma**.
+💻 Sou **Desenvolvedora Web Front-End**. Em transição da saúde para tech, hoje construo **sites e landing pages** focados em performance, UX e conversão. Trabalho com **React, Bootstrap, TypeScript e Tailwind** e estou estudando **Node.js/Express, MongoDB e Prisma**.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lidianesantossoares)
 
@@ -10,7 +10,7 @@
 
 ## **Stack**
 
-HTML · CSS · JavaScript · **React** · **TypeScript** · **Tailwind CSS** · Git · Figma · Node.js · MongoDB · Prisma
+HTML · CSS · JavaScript · **React** · **TypeScript** · **Tailwind CSS** ·  **Bootstrap** · Git · Figma · Node.js · MongoDB · Prisma
 
 ---
 
@@ -26,6 +26,7 @@ HTML · CSS · JavaScript · **React** · **TypeScript** · **Tailwind CSS** · 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" />
   <img src="https://img.icons8.com/fluency/48/node-js.png" width="60" />
   <img src="https://img.icons8.com/color/48/figma--v1.png" width="60" />
+  <img width="60px" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
   <img src="https://img.icons8.com/color/48/mongo-db.png" width="60" />
   <img src="https://img.icons8.com/color/48/prisma-orm.png" width="60" />
 </p>
