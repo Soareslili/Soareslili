@@ -1,8 +1,12 @@
 ## **Bem-vinda(o) ao meu GitHub**
 
-👋 Olá, me chamo **Lidiane**.
+👋 Olá, me chamo Lidiane.
 
-💻 Sou **Desenvolvedora Web Front-End**. Em transição da saúde para tech, hoje construo **sites e landing pages** focados em performance, UX e conversão. Trabalho com **React, Bootstrap, TypeScript e Tailwind** e estou estudando **Node.js/Express, MongoDB e Prisma**.
+💻 Desenvolvedora Front-End em transição de carreira da área da saúde para tecnologia, com foco na criação de interfaces modernas, rápidas e responsivas.
+
+🚀 Trabalho com React, TypeScript, Tailwind e Bootstrap, desenvolvendo sites e landing pages com foco em performance, UX e conversão.
+
+📚 Atualmente aprimorando habilidades em Node.js, Express, MongoDB e Prisma para atuação Full Stack.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lidianesantossoares)
 
