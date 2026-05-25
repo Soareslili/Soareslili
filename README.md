@@ -12,7 +12,7 @@ Sou desenvolvedora front-end e web, especializada na criação de interfaces mod
 
 Trabalho com tecnologias como HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, Styled Components, Node.js, Express, MongoDB, Git e Figma, aplicando boas práticas de código, design profissional e animações suaves para entregar soluções digitais completas e de alto impacto.
 
-<p>
+<p gap="2px">
   <a href=" https://www.linkedin.com/in/lidianesantossoares">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
