@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Soareslili/Soareslili/main/Lid.Dev.jpg" style="width:100%; height:500px; object-fit:cover;" />
+  <img src="https://raw.githubusercontent.com/Soareslili/Soareslili/main/Lid.Dev.jpg" style="width:100%; height:600px; object-fit:cover;" />
 </p>
 
 ## **Bem-vinda(o) ao meu GitHub**
@@ -12,8 +12,8 @@ Sou desenvolvedora front-end e web, especializada na criação de interfaces mod
 
 Trabalho com tecnologias como HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, Styled Components, Node.js, Express, MongoDB, Git e Figma, aplicando boas práticas de código, design profissional e animações suaves para entregar soluções digitais completas e de alto impacto.
 
-<p gap="2px">
-  <a href=" https://www.linkedin.com/in/lidianesantossoares">
+<p style="display: flex; gap: 4px;">
+  <a href="http://www.linkedin.com/in/lidianesantossoares">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   
