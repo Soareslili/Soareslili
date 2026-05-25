@@ -6,20 +6,18 @@
 
 ## **Bem-vinda(o) ao meu GitHub**
 
-👋 Olá, me chamo Lidiane.
+Olá! Sou a Lidiane, desenvolvedora front-end e web, especializada em criar interfaces modernas, funcionais e visualmente impactantes.
 
-💻 Desenvolvedora Front-End em transição de carreira da área da saúde para tecnologia, com foco na criação de interfaces modernas, rápidas e responsivas.
+Sou desenvolvedora front-end e web, especializada na criação de interfaces modernas, funcionais e responsivas. Atuo no desenvolvimento de sites, landing pages e aplicações web com foco em performance, usabilidade e experiência do usuário.
 
-🚀 Trabalho com React, TypeScript, Tailwind e Bootstrap, desenvolvendo sites e landing pages com foco em performance, UX e conversão.
+Trabalho com tecnologias como HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, Styled Components, Node.js, Express, MongoDB, Git e Figma, aplicando boas práticas de código, design profissional e animações suaves para entregar soluções digitais completas e de alto impacto.
 
-📚 Atualmente aprimorando habilidades em Node.js, Express, MongoDB e Prisma para atuação Full Stack.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lidianesantossoares">
+<p>
+  <a href=" https://www.linkedin.com/in/lidianesantossoares">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   
-  <a href="https://www.instagram.com/SEU_USER">
+  <a href="https://www.instagram.com/lid.dev?igsh=bWs3Y2d2djN2YXVh&utm_source=qr">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
   </a>
 </p>
@@ -27,7 +25,7 @@
 
 ## **Stack**
 
-HTML · CSS · JavaScript · **React** · **TypeScript** · **Tailwind CSS** ·  **Bootstrap** · Git · Figma · Node.js · MongoDB · Prisma
+HTML · CSS · JavaScript · **React** · **TypeScript** · **Tailwind CSS** · **Styled-Components** · **Bootstrap** · Git · Figma · Node.js · MongoDB · Prisma
 
 ---
 
