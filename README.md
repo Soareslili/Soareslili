@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Soareslili/Soareslili/main/Lid.Dev.jpg" width="600" />
+</p>
+
 ## **Bem-vinda(o) ao meu GitHub**
 
 👋 Olá, me chamo Lidiane.
