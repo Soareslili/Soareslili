@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Soareslili/Soareslili/main/Lid.Dev.jpg" width="600" />
+  <img src="https://raw.githubusercontent.com/Soareslili/Soareslili/main/Lid.Dev.jpg" style="width:100%; height:300px; object-fit:cover;" />
 </p>
 
 ## **Bem-vinda(o) ao meu GitHub**
