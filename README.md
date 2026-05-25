@@ -14,8 +14,15 @@
 
 📚 Atualmente aprimorando habilidades em Node.js, Express, MongoDB e Prisma para atuação Full Stack.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/lidianesantossoares)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/lidianesantossoares">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  
+  <a href="https://www.instagram.com/SEU_USER">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
+  </a>
+</p>
 ---
 
 ## **Stack**
@@ -43,8 +50,6 @@ HTML · CSS · JavaScript · **React** · **TypeScript** · **Tailwind CSS** · 
 
 ---
 
-![Lidiane Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=Soareslili&show_icons=true&theme=radical)
 
-<img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soareslili&layout=compact&langs_count=7&theme=dracula" />
 
 
